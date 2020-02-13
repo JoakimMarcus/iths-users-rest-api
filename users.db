@@ -1,6 +1,7 @@
 {"name":{"title":"Ms","first":"Candelária","last":"Santos"},"email":"Candelaria.Santos@example.com","nat":"BR","_id":"0JULjxa9SSLR8oVx"}
 {"name":{"title":"Monsieur","first":"Mathias","last":"Nguyen"},"email":"Mathias.Nguyen@example.com","nat":"CH","_id":"0SgIMn3lrv9BFf4K"}
 {"name":{"title":"Mr","first":"Marc","last":"Mendez"},"email":"Marc.Mendez@example.com","nat":"ES","_id":"1NEyNQ0ZsHhfsiJY"}
+{"name":{"title":"Miss","first":"Jockii","last":"Boy"},"email":"sexxyfan@gmail.com","nat":"DK","_id":"2TYkejWzlv6tRFi7"}
 {"name":{"title":"Mrs","first":"Freya","last":"Edwards"},"email":"Freya.Edwards@example.com","nat":"NZ","_id":"3i78GfPYKSNhT5mS"}
 {"name":{"title":"Ms","first":"Paula","last":"Patterson"},"email":"Paula.Patterson@example.com","nat":"AU","_id":"4kHKdBSIHKO3kGvj"}
 {"name":{"title":"Ms","first":"Pinja","last":"Mattila"},"email":"Pinja.Mattila@example.com","nat":"FI","_id":"50tqICRTKmNrc3a6"}
@@ -85,6 +86,7 @@
 {"name":{"title":"Mr","first":"Veli","last":"Klemm"},"email":"Veli.Klemm@example.com","nat":"DE","_id":"oDGilJqBvACDSBUg"}
 {"name":{"title":"Ms","first":"Mary","last":"Sims"},"email":"Mary.Sims@example.com","nat":"AU","_id":"oJPpBssO81yiRDAn"}
 {"name":{"title":"Monsieur","first":"Hermann","last":"Henry"},"email":"Hermann.Henry@example.com","nat":"CH","_id":"ppBeC1xKKbDapxZW"}
+{"name":{"title":"Nerd","first":"Jockii","last":"Boy"},"email":"sexxyfan@gmail.com","nat":"DK","_id":"qJpr9VbeHG1mRdWe"}
 {"name":{"title":"Mr","first":"Domenico","last":"Böhner"},"email":"Domenico.Bohner@example.com","nat":"DE","_id":"ramSDs5atDze6QPI"}
 {"name":{"title":"Mr","first":"Thorbjørn","last":"Mykland"},"email":"Thorbjorn.Mykland@example.com","nat":"NO","_id":"rllUqZKvnH24K6Ji"}
 {"name":{"title":"Mr","first":"Rémi","last":"Arnaud"},"email":"Remi.Arnaud@example.com","nat":"FR","_id":"rowwo2a8Hu0Hi2aW"}
@@ -99,5 +101,4 @@
 {"name":{"title":"Mr","first":"Sergio","last":"Little"},"email":"Sergio.Little@example.com","nat":"IE","_id":"ygPq5lVU0qn6BQIY"}
 {"name":{"title":"Mr","first":"Rasmus","last":"Sakala"},"email":"Rasmus.Sakala@example.com","nat":"FI","_id":"yjw30Jtr5mDk7fmG"}
 {"name":{"title":"Ms","first":"Laura","last":"Jensen"},"email":"Laura.Jensen@example.com","nat":"DK","_id":"yrQBKrui3ikxSyMM"}
-{"name":{"title":"Nerd","first":"Jockii","last":"Boy"},"email":"sexxyfan@gmail.com","nat":"DK","_id":"qJpr9VbeHG1mRdWe"}
-{"name":{"title":"Dr","first":"Jockii","last":"Boy"},"email":"sexxyfan@gmail.com","nat":"DK","_id":"2TYkejWzlv6tRFi7"}
+{"$$deleted":true,"_id":"2TYkejWzlv6tRFi7"}
